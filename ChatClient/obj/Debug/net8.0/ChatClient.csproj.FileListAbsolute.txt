@@ -1,0 +1,14 @@
+C:\Vidya\MotilalOswal_Assignment\ChatClient\bin\Debug\net8.0\ChatClient.exe
+C:\Vidya\MotilalOswal_Assignment\ChatClient\bin\Debug\net8.0\ChatClient.deps.json
+C:\Vidya\MotilalOswal_Assignment\ChatClient\bin\Debug\net8.0\ChatClient.runtimeconfig.json
+C:\Vidya\MotilalOswal_Assignment\ChatClient\bin\Debug\net8.0\ChatClient.dll
+C:\Vidya\MotilalOswal_Assignment\ChatClient\bin\Debug\net8.0\ChatClient.pdb
+C:\Vidya\MotilalOswal_Assignment\ChatClient\obj\Debug\net8.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vidya\MotilalOswal_Assignment\ChatClient\obj\Debug\net8.0\ChatClient.AssemblyInfoInputs.cache
+C:\Vidya\MotilalOswal_Assignment\ChatClient\obj\Debug\net8.0\ChatClient.AssemblyInfo.cs
+C:\Vidya\MotilalOswal_Assignment\ChatClient\obj\Debug\net8.0\ChatClient.csproj.CoreCompileInputs.cache
+C:\Vidya\MotilalOswal_Assignment\ChatClient\obj\Debug\net8.0\ChatClient.dll
+C:\Vidya\MotilalOswal_Assignment\ChatClient\obj\Debug\net8.0\refint\ChatClient.dll
+C:\Vidya\MotilalOswal_Assignment\ChatClient\obj\Debug\net8.0\ChatClient.pdb
+C:\Vidya\MotilalOswal_Assignment\ChatClient\obj\Debug\net8.0\ChatClient.genruntimeconfig.cache
+C:\Vidya\MotilalOswal_Assignment\ChatClient\obj\Debug\net8.0\ref\ChatClient.dll
